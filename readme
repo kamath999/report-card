@@ -1,1 +1,9 @@
-student report card generator using c++ language
+A menu driven  c++ program for generation of student report card using files.
+The following operation are done :
+1.calculate grade
+2.display result of student 
+3.display result of entire class
+4.edit student details
+5.delete student record
+6.add student record
+7.display bar chart
